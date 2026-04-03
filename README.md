@@ -1,12 +1,123 @@
-# 💫 About Me:
-## 👋 Hi, I'm Aditya Kumar Gupta  <br><br>🎓 MCA Student | 💻 MERNStack Developer  <br><br>I am a passionate developer who loves building real-world web applications and solving problems through code.  <br>Currently, I am working on a **College Management System** with features like student dashboards, attendance tracking, fee management, and authentication.<br><br>---<br><br>### 🚀 Tech Stack<br>- 🌐 Frontend: HTML, CSS, JavaScript, React  <br>- ⚙️ Backend: Node.js, Express.js  <br>- 🛢️ Database: MongoDB  <br>- 🔧 Tools:GEN AI, Git, GitHub, VS Code  <br><br>---<br><br>### 📌 Current Focus<br>- Building scalable full-stack projects  <br>- Improving DSA & problem-solving skills  <br>- Learning advanced backend & system design  <br><br>---<br><br>### 📫 Connect with Me<br>- 📧 Email: adityagupta32126@gmail.com  <br>- 💼 LinkedIn: www.linkedin.com/in/adityagupta1234567<br><br>---<br><br>### ⚡ Fun Fact<br>I believe in "Code, Learn, Repeat 🚀"
+# 👋 Hi, I'm Aditya Kumar Gupta  
+
+🎓 MCA Student | 💻 MERN Stack Developer | 🤖 Gen AI Enthusiast  
+📍 Greater Noida, India  
+
+---
+
+## 💫 About Me
+I am a passionate and self-motivated **Full Stack Developer** who loves building real-world web applications and solving problems through code.  
+
+Currently working on a **College Management System** with features like:
+- 🎯 Student Dashboard  
+- 🔐 Authentication System  
+- 📊 Attendance Tracking  
+- 💳 Fee Management  
+
+💡 I enjoy learning new technologies and turning ideas into scalable applications.
+
+---
+
+## 🚀 Tech Stack  
+
+### 🌐 Frontend
+- HTML5  
+- CSS3  
+- JavaScript  
+- React.js  
+
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+- FastAPI  
+
+### 🛢️ Database
+- MongoDB  
+- MySQL  
+- Firebase  
+
+### ☁️ Cloud & Tools
+- Git & GitHub  
+- Postman  
+- VS Code  
+- Azure  
+- Cloudflare  
+- Canva  
+- Power BI  
+
+### 🧠 Programming Languages
+- C  
+- C++  
+- Python  
+- JavaScript  
+
+---
+
+## 📌 Current Focus
+- 🚀 Building scalable MERN stack applications  
+- 📚 Practicing Data Structures & Algorithms  
+- 🧠 Exploring Generative AI & backend architecture  
+- ⚡ Improving problem-solving skills  
+
+---
+
+## 📂 Featured Projects  
+
+### 🏫 College Management System
+A full-stack web application to manage college operations efficiently.  
+
+**Features:**
+- Student Dashboard  
+- Authentication  
+- Attendance Tracking  
+- Fee Management  
+
+**Tech Stack:** MERN Stack  
+
+👉 *(Add your repo link here)*  
+
+---
+
+### 📝 To-Do App
+A simple task management application with CRUD functionality.  
+
+👉 *(Add your repo link here)*  
+
+---
+
+### 🛒 E-Commerce (Mini Project)
+Basic online shopping platform with product listing and cart features.  
+
+👉 *(Add your repo link here)*  
+
+---
+
+## 🤖 Generative AI
+- AI Chatbot (Basic)  
+- Exploring real-world AI applications  
+
+---
+
+## 📊 GitHub Stats  
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityagupta302&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta302&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me  
+- 📧 Email: adityagupta32126@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/adityagupta1234567  
+- 💻 GitHub: https://github.com/adityagupta302  
+
+---
+
+## ⚡ Fun Fact  
+💻 Code. Learn. Repeat 🚀  
+⚡ Turning ideas into real-world applications  
 
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityagupta32126@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
 
@@ -30,15 +141,3 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
